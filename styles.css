@@ -1,2 +1,11 @@
+*{
+    padding: 2rem;
+    margin: 2rem;
+}
 
+ol li{
+    padding: 1rem;
+    margin-top: 1rem;
+    border: 1px solid wheat;
+}
 /* Your CSS Code here. */
