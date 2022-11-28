@@ -3,6 +3,10 @@
     margin: 2rem;
 }
 
+ th, td {
+    border:1px solid wheat;
+  }
+
 ol li{
     padding: 1rem;
     margin-top: 1rem;
